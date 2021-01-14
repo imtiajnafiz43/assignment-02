@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.shoes-navbar .logo-image{
+    width: 200px;
+}
+.title-color{
+    color: rgb(214, 57, 57);
+   font-weight: 700;
+}
+.heading-color{
+    color: rgb(4, 4, 66);
+    font-weight: 700;
+}
+.shoe-footer{
+    border: 0;
+    background-color: white;
+    border-radius: 2em;
+}
+.shoe-border{
+    border:0;
+    background-color: white;
+    border-radius: 2em;
+}
+.shoe-card{
+    border: 1em solid rgb(255, 254, 254);
+    border-radius: 2em;
+    box-shadow: 2px 2px 10px grey;
+    
+}
+.buy-btn{
+    color: white;
+    font-weight: 600;
+    background-color: rgb(16, 16, 150);
+}
+.buy-btn:hover{
+    background-image: linear-gradient(180deg, rgb(50, 78, 206),darkblue);
+    color: white;
+}
+#shopping-image{
+    height: 100%;
+    width: 100%;
+}
+img{
+    border-radius: 1em;
+}
+.container-box{
+    box-shadow: 2px 2px lightgrey;
+}
+u{
+    color: darkblue;
+}
+footer{
+    text-align: center;
+}
+.effect:hover{
+    transform: translateX(5px);
+    font-weight: 500;
+    
+}
+.card-effect{
+    transition: transform .3s ease ;
+}
+.card-effect:hover{
+    transform: scale(1.05);
+   
+}
