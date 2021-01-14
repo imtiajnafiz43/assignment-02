@@ -40,6 +40,7 @@ body{
 #shopping-image{
     height: 100%;
     width: 100%;
+    background-color: white;
 }
 img{
     border-radius: 1em;
